@@ -1,2 +1,9 @@
 elasticsearch:8.13.0
 mysql:8.0
+nacos/nacos-server
+bitnami/minio:latest
+rabbitmq
+bitnami/mongodb
+apache/seata-server:latest
+apache/seata-server
+bitnami/redis-sentinel:6.2.14
